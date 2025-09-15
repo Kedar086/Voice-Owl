@@ -1,4 +1,4 @@
-# VoiceOwl - Backend (Node + TypeScript + Express + MongoDB)
+# VoiceOwl
 
 ## Setup
 1. Install dependencies: `npm install`
